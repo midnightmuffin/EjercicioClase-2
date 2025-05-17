@@ -14,7 +14,7 @@ public class Program
         Console.WriteLine("Id del Gato: " + myCat.Id);
         Console.WriteLine("Nombre del gato: " + myCat.Name);
 
-        Console.WriteLine("Ingrese una descripción para el gato: ");
+        Console.WriteLine("Ingrese una descripción para el gatito: ");
         myCat.Description = Console.ReadLine();
 
     }
